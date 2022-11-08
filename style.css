@@ -4,7 +4,7 @@
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
-    height: 100vh;
+    height: 95vh;
     display: grid;
     place-items: center;
 }
@@ -16,7 +16,7 @@ body {
     height: 500px;
     margin: auto;
     position: relative;
-    /* overflow: hidden; */
+    overflow: hidden;
 }
 
 .carousel:hover .btn {
@@ -61,8 +61,8 @@ body {
     top: 230px;
 }
 
-@media (max-width: 375px) {
-    .container {
-        width: 100%;
+@media (max-width: 376px) {
+    .carousel {
+        width: 90%;
     }
 }

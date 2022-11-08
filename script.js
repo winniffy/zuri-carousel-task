@@ -1,4 +1,4 @@
-'use script'
+'use strict'
 
 // select buttons
 const prevBtn = document.querySelector('#prev');

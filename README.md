@@ -3,6 +3,10 @@
 
 create a carousel/slideshow with 6 different images of your choice.
 
+## live website link
+
+[github.io pages](https://winniffy.github.io/zuri-carousel-task/)
+
 ## features
 
 - the images are properly styled.

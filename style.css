@@ -9,6 +9,17 @@ body {
     place-items: center;
 }
 
+.gitlink {
+    text-decoration: none;
+    color: #fff;
+}
+
+.gitlink-p {
+    color: #fff;
+    background-color: red;
+    margin: 0;
+}
+
 .carousel {
     max-width: 1440px;
     width: 100%;
